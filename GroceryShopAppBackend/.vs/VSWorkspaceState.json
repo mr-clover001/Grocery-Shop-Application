@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Business_Logic_Layer",
+    "\\Data_Access_Layer",
+    "\\Data_Access_Layer\\Repository",
+    "\\Data_Access_Layer\\Repository\\Entities",
+    "\\GroceryShopApp",
+    "\\GroceryShopApp\\Controllers"
+  ],
+  "SelectedNode": "\\Business_Logic_Layer\\ProductBLL.cs",
+  "PreviewInSolutionExplorer": false
+}

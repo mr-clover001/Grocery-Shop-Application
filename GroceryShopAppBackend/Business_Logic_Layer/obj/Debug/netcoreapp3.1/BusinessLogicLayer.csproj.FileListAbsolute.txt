@@ -1,0 +1,15 @@
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.deps.json
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.runtimeconfig.json
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.runtimeconfig.dev.json
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\bin\Debug\netcoreapp3.1\GroceryShop.Domain.dll
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\bin\Debug\netcoreapp3.1\GroceryShop.Domain.pdb
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Business_Logic_Layer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.genruntimeconfig.cache

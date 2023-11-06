@@ -1,0 +1,11 @@
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\bin\Debug\netcoreapp3.1\GroceryShop.Domain.deps.json
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\bin\Debug\netcoreapp3.1\GroceryShop.Domain.runtimeconfig.json
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\bin\Debug\netcoreapp3.1\GroceryShop.Domain.runtimeconfig.dev.json
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\bin\Debug\netcoreapp3.1\GroceryShop.Domain.dll
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\bin\Debug\netcoreapp3.1\GroceryShop.Domain.pdb
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\obj\Debug\netcoreapp3.1\GroceryShop.Domain.AssemblyInfoInputs.cache
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\obj\Debug\netcoreapp3.1\GroceryShop.Domain.AssemblyInfo.cs
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\obj\Debug\netcoreapp3.1\GroceryShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\obj\Debug\netcoreapp3.1\GroceryShop.Domain.dll
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\obj\Debug\netcoreapp3.1\GroceryShop.Domain.pdb
+C:\Users\anoopkumar02\Desktop\Nagarro Assignment\ExitProject Pratice\PracticeProject2\GroceryShopApp\Data_Access_Layer\obj\Debug\netcoreapp3.1\GroceryShop.Domain.genruntimeconfig.cache
